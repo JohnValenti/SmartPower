@@ -1,0 +1,6 @@
+c:\users\jvalenti\documents\visual studio 2017\Projects\SmartPower\SmartPower\bin\Debug\SmartPower.exe.config
+c:\users\jvalenti\documents\visual studio 2017\Projects\SmartPower\SmartPower\bin\Debug\SmartPower.exe
+c:\users\jvalenti\documents\visual studio 2017\Projects\SmartPower\SmartPower\bin\Debug\SmartPower.pdb
+c:\users\jvalenti\documents\visual studio 2017\Projects\SmartPower\SmartPower\obj\Debug\SmartPower.csprojResolveAssemblyReference.cache
+c:\users\jvalenti\documents\visual studio 2017\Projects\SmartPower\SmartPower\obj\Debug\SmartPower.exe
+c:\users\jvalenti\documents\visual studio 2017\Projects\SmartPower\SmartPower\obj\Debug\SmartPower.pdb
